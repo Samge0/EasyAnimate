@@ -1,0 +1,12 @@
+{
+	"name": "easy-animate",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "easy-animate",
+    "workspaceFolder": "/app",
+    "extensions": [
+        "ms-python.python",
+        "ms-python.debugpy",
+        "humao.rest-client",
+        "samge.vscode-samge-translate"
+    ]
+}
